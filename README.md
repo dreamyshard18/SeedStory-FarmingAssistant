@@ -15,13 +15,14 @@ Designed with Kerala's unique climate in mind, SeedStory provides practical, reg
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/home.png" width="45%" alt="Home Screen">
-  <img src="assets/chat.png" width="45%" alt="Chat Interface">
+  <img src="assets/screenshot1.png" width="45%" alt="Home Screen">
+
 </p>
 
 <p align="center">
-  <img src="assets/example1.png" width="45%" alt="Example Conversation">
-  <img src="assets/example2.png" width="45%" alt="Plant Care Advice">
+  
+  <img src="assets/screenshot2.png" width="45%" alt="Plant Care Advice">
+  <img src="assets/screenshot3.png" width="45%" alt="Invalid Query">
 </p>
 
 ---
